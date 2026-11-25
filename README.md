@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sakshi
 
-<!--
-**sakshi-gond-codes/sakshi-gond-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python & Django Developer** | Full-stack with React, Node.js and MySQL
 
-Here are some ideas to get you started:
+I build practical web applications that solve real business problems — document automation, telecom rate management and CRM systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:** Python, Django, Node.js, Express
+**Frontend:** React, HTML, CSS, Bootstrap, JavaScript
+**Database:** MySQL, SQLite
+**Tools:** Git, GitHub, Tesseract OCR, PyMuPDF
+
+## 🚀 Featured Projects
+
+### 📄 [DocuVerify](https://github.com/sakshi-gond-codes/DocuVerify)
+Django app that extracts company details from PDFs and scanned images using **OCR**, with a side-by-side human review and verification workflow.
+`Django` `Tesseract OCR` `PyMuPDF` `Bootstrap`
+
+### 📞 [RouteRate](https://github.com/sakshi-gond-codes/RouteRate)
+Voice rate deck engine that normalizes vendor rate decks, calculates **Least Cost Routing (LCR)** and exports customer rate sheets.
+`Django` `MySQL` `Chart.js`
+
+### 📊 [SalesFlow CRM](https://github.com/sakshi-gond-codes/SalesFlow-CRM)
+Full-stack CRM for lead management with follow-ups, notes, roles, dashboard and CSV import/export.
+`React` `Node.js` `Express` `MySQL`
+
+## 📫 Connect with me
+- Email: sakshigond26@gmail.com
